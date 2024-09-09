@@ -1,0 +1,186 @@
+hr {
+    width: 100%;
+}
+
+.head {
+    align-content: center;
+}
+
+.top-left-buttons {
+    float: left;
+}
+
+.seccion-button {
+    height: 50px;
+    border: 0px;
+    background-color: #fff;
+}
+
+.search-button {
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+    border-left: 1px #000000 solid;
+    border-right: 1px #000000 solid ;
+    border-top: 0px;
+    border-bottom: 0px;
+    background-color: #fff;
+}
+
+.laTercera {
+    position: absolute;
+    left: calc(50% - 125px);
+}
+
+.laTercera-button {
+    width: 250px;
+    background-color: #fff;
+    border: 0px;
+}
+
+.laTercera-button img {
+    width: 100%;
+}
+
+.top-right-buttons {
+    height: 50px;
+    position: absolute;
+    right: 0px;
+}
+
+.subscribe-button {
+    width: 100px;
+    height: 35px;
+    font-weight: 900;
+    background-color: #FFD000;
+    border: 0px;
+    border-radius: 10px;
+}
+
+.SignIn-button {
+    width: 100px;
+    height: 35px;
+    background-color: #FFF;
+    border: 0px;
+}
+
+.cuerpoPrincipal-Portada {
+    width: 90%;
+    height: fit-content;
+    display: block;
+}
+
+.cuerpo-principal-buttons {
+    position: relative;
+    left: 5%;
+}
+
+.rugby-button {
+    width: 60px;
+    height: 25px;
+    border-radius: 30px;
+    border: 0px;
+    color: #FFF;
+    background-color: rgb(192, 0, 0);
+}
+
+.sports-button {
+    width: 70px;
+    height: 25px;
+    border-radius: 30px;
+    border: 0px;
+    color: #FFF;
+    background-color: #000958;
+}
+
+.more-button {
+    width: 30px;
+    height: 25px;
+    border-radius: 7px;
+    border: 0px;
+    color: #FFF;
+    background-color: #5e5e5e;
+}
+
+.cuerpo-principal {
+    width: 40%;
+    height: 100%;
+    float: left;
+    font-size: larger;
+}
+
+.cuerpo-principal h1 {
+    width: 90%;
+    font-weight: 900;
+    position: relative;
+    left: 5%;
+}
+
+.cuerpo-principal p {
+    width: 90%;
+    position: relative;
+    left: 5%;
+}
+
+.cuerpo-principal figcaption {
+    font-size: small;
+    position: relative;
+    left: 5%;
+}
+
+.portada {
+    width: 40%;
+    float: right;
+}
+
+.portada img {
+    width: 90%;
+}
+
+.portada figcaption {
+    width: 85%;
+}
+
+.ultimas-noticias {
+    width: 100%;
+}
+
+.ultimas-noticias button {
+    width: 300px;
+    height: 30px;
+    position: relative;
+    left: calc(50% - 150px);
+    align-content: center;
+    color: #FFF;
+    background-color: #080036;
+}
+
+.ultimas-noticias button div {
+    width: 25px;
+    height: 25px;
+    float: left;
+    color: #000;
+    align-content: center;
+    background-color: #FFD000;
+}
+
+.ultimas-noticias button p {
+    height: 25px;
+    position: relative;
+    top: calc(50% - 20.5px);
+}
+
+.cuerpo-hr {
+    width: 60%;
+}
+
+.cuerpo {
+    width: 100%;
+}
+
+.cuerpo p {
+    width: 60%;
+    position: relative;
+    left: 20%;
+    font-size: larger;
+}
